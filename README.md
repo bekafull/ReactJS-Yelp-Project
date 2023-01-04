@@ -4,6 +4,11 @@
 
 <h3> This is porject <a href="https://main.d4o88wdwjwm40.amplifyapp.com/">See Demo ReactJS Yelp Project</a> version </h3>
 
+### Images
+![Yelp](https://github.com/beknurmaxalbayev/ReactJS-Yelp-Project/blob/main/Yelp%20PNG/Yelp.png?raw=true)
+
+![Yelp](https://github.com/beknurmaxalbayev/ReactJS-Yelp-Project/blob/main/Yelp%20PNG/Yelp1.png?raw=true)
+
 In the project directory, you can run:
 
 ### `npm install`
